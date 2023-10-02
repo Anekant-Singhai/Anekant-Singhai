@@ -1,0 +1,12 @@
+- [ ] enumeration via:
+	- [ ] Tools:
+		- [ ] nmap -`scripts` 
+		- [ ] nc/telnet - `banner grabbing`
+		- [ ] ftp
+		- [ ] Browser - curl , wget and browsers too
+		- [ ] vsftpd
+		- [ ] tftp
+	- [ ] version detection and anonymous login
+	- [ ] check for files in every folder to download in ftp
+	- [ ] check for user credentials and ssh keys if there
+	- [ ] shell/keys upload and look for where they are going

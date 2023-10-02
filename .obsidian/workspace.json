@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "693a586bfb81ef87",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c9601d1a9c63a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b2b29686b29d271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "walkthroughs/Picoctf/GET aHEAD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3460acbfffc3449e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3e2ad9a773ee766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8560971698c5556",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "725d4afdb1f0c0d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8d74afeca8b2aa0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f5694f0f850b38a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b916e7ad505402a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2dbdaada3a7de2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "walkthroughs/Picoctf/GET aHEAD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c694f5d1589dafa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "walkthroughs/Picoctf/GET aHEAD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "223b8efe40103e1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "292a4fd2e70c425d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "walkthroughs/Picoctf/GET aHEAD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b2b29686b29d271",
+  "lastOpenFiles": [
+    "walkthroughs/Juice-Shop/Shenanigans.md",
+    "walkthroughs/Vulnmachines/Web/IDOR.md",
+    "walkthroughs/SQL murder mystery.md",
+    "walkthroughs/Pasted image 20230829003808.png",
+    "web security/XSS/Best approach to DOM XSS.md",
+    "web security/OS-Command-Injection/OCI.md",
+    "web security/LFI/2. LFI via File upload resulting RCE.md",
+    "web security/LFI/1. LFI.md",
+    "web security/CSRF/csrf.md",
+    "CTF/Cyber-Heroines/Cyber Heriones.md",
+    "Website",
+    "web security/XSS/IMG/Pasted image 20230717200655.png",
+    "web security/XSS/IMG/Pasted image 20230717200254.png",
+    "web security/XSS/IMG/Pasted image 20230717195831.png",
+    "web security/XSS/IMG/Pasted image 20230717195709.png",
+    "web security/XSS/IMG/Pasted image 20230717195610.png",
+    "web security/XSS/IMG/Pasted image 20230717195337.png",
+    "web security/XSS/IMG/Pasted image 20230717195202.png",
+    "web security/XSS/IMG/Pasted image 20230717194944.png",
+    "web security/XSS/IMG/Pasted image 20230717192126.png",
+    "web security/XSS/IMG",
+    "web security/LFI/IMG",
+    "web security/CSRF/images",
+    "web security/XSS",
+    "web security/OS-Command-Injection",
+    "web security/LFI",
+    "web security/CSRF",
+    "web security",
+    "walkthroughs/wargames/overthewire/natas/Natas 0 to 9.md",
+    "walkthroughs/wargames/Ringerzer0/javascript/javascript exercises for ringer0.md",
+    "walkthroughs/wargames/Ringerzer0/javascript/IMG",
+    "walkthroughs/Vulnhub/BOB/IMG/People all around....md",
+    "walkthroughs/Portswigger/SQLI/NOtes_class/MYSQL-Setup.md",
+    "walkthroughs/Portswigger/SQLI/NOtes_class/Finding sensitive-system info With SQL.md",
+    "walkthroughs/Portswigger/SQLI/NOtes_class/Black Box Approach using information_schema.md",
+    "walkthroughs/Portswigger/SQLI/NOtes_class/Approaching the target for error based sqli.md",
+    "walkthroughs/HACKTHEBOX/PC/IMG/C.md",
+    "walkthroughs/wargames/lord_of_sqli/Gremlin.md",
+    "walkthroughs/wargames/google xss/Stage 2.md",
+    "walkthroughs/YOGOSHA/machine_010440A1/Machine 014400A1 {Linux-Eazy}.md",
+    "walkthroughs/YOGOSHA/Machine_013F009D/hash.md",
+    "walkthroughs/YOGOSHA/Machine_013F009D/Machine 013F009D {windows-easy}.md",
+    "walkthroughs/YOGOSHA/Machine_013D009F/Machine 013D009F {Linux_medium}.md",
+    "walkthroughs/YOGOSHA/Machine_013A009F/composer.phar.md",
+    "walkthroughs/YOGOSHA/Machine_013A009F/Machine 013A009F {Windows Hard}.md",
+    "walkthroughs/Webgoat_2023/Broken_access_control/IDOR.md"
+  ]
+}
